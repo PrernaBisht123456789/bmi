@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Google 1999</title>
+</head>
+<body>
+    <center>
+        <h1>Google</h1>
+        <p><a href="http://www.google.com/">http://www.google.com/</a></p>
+        <form action="http://www.google.com/search" method="get">
+            <input type="text" name="q" size="55" maxlength="255" value="">
+            <br><br>
+            <input type="submit" name="btnG" value="Google Search">
+            <input type="submit" name="btnI" value="I'm Feeling Lucky">
+        </form>
+        <p><a href="http://www.google.com/advanced_search">Advanced Search</a> | <a href="http://www.google.com/preferences">Preferences</a></p>
+        <p>&copy; 1999 Google</p>
+    </center>
+</body>
+</html>
